@@ -1,0 +1,4 @@
+name: ${project.name}
+main: net.hyze.core.spigot.CoreSpigotPlugin
+version: ${git.commit.id.describe-short}
+depend: [ProtocolLib]
