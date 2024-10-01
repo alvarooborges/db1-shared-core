@@ -1,0 +1,3 @@
+name: ${project.name}
+main: net.hyze.core.bungee.CoreBungeePlugin
+version: ${git.commit.id.describe-short}
